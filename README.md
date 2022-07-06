@@ -39,4 +39,4 @@ style [link to stylesheet]
 
 # License
 
-GNU-GPL 3.0
+Creative Commons Attribution-ShareAlike 3.0
