@@ -39,4 +39,4 @@ style [link to stylesheet]
 
 # License
 
-Creative Commons Attribution-ShareAlike 3.0
+MIT License
